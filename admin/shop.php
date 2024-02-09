@@ -375,7 +375,7 @@ $conn->close();
     <button type="button" onclick="clearForm()">Clear</button>
 </form>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBi1J7tVDmwiNc0URaVy-We-t1cNoIPmWM&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap" async defer></script>
     <script>
         let map;
         let markers = [];
