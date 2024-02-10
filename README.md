@@ -25,4 +25,4 @@ Hello world! 🚗 Excited to present our project - a web application for Road Ve
 
 Feel free to explore, contribute, and let's make roadside assistance better together! 🛠️
 
-**By furqan talha C**
+**By furqan talha C and Omkar Shridhar Solanki **
